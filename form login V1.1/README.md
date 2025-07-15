@@ -7,7 +7,7 @@ Proyek ini adalah **Form Login Responsif** yang dibuat menggunakan **HTML dan CS
 
 ## 📸 Cuplikan Tampilan
 
-![gambar](../form%20login%201/img/login-preview.png)
+![gambar](../form%20login%20V1.1/img/login-preview.png)
 > Gambar `elemen.png` ditampilkan di sisi form dan akan otomatis disembunyikan saat layar kecil.
 
 ---
